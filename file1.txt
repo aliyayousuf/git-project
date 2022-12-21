@@ -1,3 +1,0 @@
-This is modified file.
-hello
-this is file 1
